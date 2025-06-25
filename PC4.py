@@ -44,7 +44,7 @@ pagina_seleccionada = st.sidebar.selectbox('Selecciona una página', paginas)
 if pagina_seleccionada == 'Inicio':
 
     # La función st.markdown permite centrar y agrandar la letra del título de la web en Streamlit.
-    st.markdown("<h1 style='text-align: center;'>Aquí escribe un nombre creativo para tu blog</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: #1b7ced;'>A d r i d y p</h1>", unsafe_allow_html=True)
 
     # <h1 style='text-align: center;'>Nombre de tu blog</h1>: Esto es una cadena de código HTML. 
     # La etiqueta <h1> se utiliza para el encabezado principal de una página web, y 
@@ -68,7 +68,7 @@ if pagina_seleccionada == 'Inicio':
     # Las columnas creadas se asignan a las variables col1 y col2.
 
     # En la primera columna colocamos la imagen de perfil
-    col1.image("ellie.png", caption='Aquí puedes escribir una etiqueta debajo de la imagen', width=300)
+    col1.image("pfp.jpg", caption='Foto con mi mamá en el día de graduación del colegio', width=300)
 
     # col1.image("ellie.png", caption='Ellie', width=300): Esta línea está colocando una imagen en la primera columna (col1). 
     # La función image toma como primer argumento el nombre del archivo de la imagen que se desea mostrar. 
@@ -82,13 +82,12 @@ if pagina_seleccionada == 'Inicio':
     # ¿Qué te gustaría hacer en el futuro?, ¿Qué te gusta hacer en tu tiempo libre?
 
     texto = """
-    Aquí escribe una presentación creativa sobre ti.
-    ¿Quién eres?, 
-    ¿De dónde eres?, 
-    ¿Qué estudias?, 
-    ¿Qué te gusta de tu carrera?, 
-    ¿Qué te gustaría hacer en el futuro?, 
-    ¿Qué te gusta hacer en tu tiempo libre?
+    Hola soy Adrian Pari, tengo 18 años y estudio Publicidad en la PUCP.
+    Escogí esta carrera porque me encantan los comerciales americanos cuando veo transmisiones deportivas, en especial, los comerciales que cuentan historias.
+    En el futuro, me gustaría ayudar a realizar comerciales en una agencia de publicidad y hacer consultoría en redes sociales para personas u empresas.
+    Dentro de mis aficiones, me gusta hacer deporte, en especial, el básquetbol. Suelo ver la NBA en la televisión con mi familia.
+    A mi hermano y a mi papá les encanta ver fútbol, y actualmente me está empezando a gustar también.
+    Además de ello, suelo jugar videojuegos, aprender sobre programas diversos relacionados a la edición de fotos o videos y ver películas o series.
     """
 
     # Las comillas triples (""") en Python se utilizan para definir cadenas multilínea.
@@ -150,7 +149,7 @@ elif  pagina_seleccionada == 'Experiencia':
     # Por ejemplo, puedes agregar un emoji de video 🎥 
 
     # Agregamos un video realizado en las practicas anteriores
-    st.video("https://www.youtube.com/watch?v=X_Z7d04x9-E")
+    st.video("https://www.youtube.com/watch?v=zw3tuvMpoDw")
 
     # st.video("https://www.youtube.com/watch?v=X_Z7d04x9-E"): Esta línea está mostrando un video en la aplicación web.
     # La función video toma como primer argumento la URL del video que se desea mostrar.
