@@ -125,7 +125,7 @@ elif  pagina_seleccionada == 'Experiencia':
     Ahora, aprendí a centrar mi atención en partes del código e ir de arriba hacia abajo, sin saltarme ninguna línea. 
     Me gusta la programación, porque es divertido ver los cambios que se generan por unas cuantas palabras escritas.
     Personalmente creo que es una habilidad complicada, pero aunque tenga sus dificultades, me agrada el reto y la satisfacción que se logra al obtener el resultado deseado después de múltiples errores.
-    Aunque tenga sus dificultades, el proceso es un reto entretenido que me mantiene.
+    Aunque tenga sus dificultades, el proceso es un reto entretenido que constantemente me mantiene motivado a seguir aprendiendo.
     """
 
     # Mostramos el texto
