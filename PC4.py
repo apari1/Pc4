@@ -90,7 +90,7 @@ if pagina_seleccionada == 'Inicio':
     También he pensado en centrarme en la publicidad de marcas personales.
     Dentro de mis aficiones, me gusta hacer deporte, en especial, el básquetbol. Por ello, suelo ver la NBA en la televisión con mi familia.
     A mi hermano y a mi papá les encanta ver fútbol, y actualmente me está empezando a gustar también.
-    Además de ello, suelo jugar videojuegos, aprender sobre programas diversos relacionados a la edición de fotos o videos y ver películas o series.
+    Además de ello, suelo jugar videojuegos, aprender sobre programas diversos relacionados a la edición de fotos/videos y ver películas o series.
     """
 
     # Las comillas triples (""") en Python se utilizan para definir cadenas multilínea.
