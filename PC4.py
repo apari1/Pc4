@@ -82,7 +82,7 @@ if pagina_seleccionada == 'Inicio':
     # ¿Qué te gustaría hacer en el futuro?, ¿Qué te gusta hacer en tu tiempo libre?
 
     texto = """
-    Hola soy Adrian Pari, tengo 18 años y estudio Publicidad en la PUCP.
+    Hola soy Adrian Pari, tengo 19 años y estudio Publicidad en la PUCP.
     Escogí esta carrera porque me gustan los medios audivisuales en general,
     y los comerciales americanos que veía al mirar eventos deportivos, en especial los que cuentan historias,
     me hicieron inclinarme por la publicidad como una carrera para generar emociones y relacionarlas a una marca.
